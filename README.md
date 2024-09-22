@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there I am dipanshu 
+###I like Python and tolorate javascript
 
 <!--
 **im-dipanshu/im-dipanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
